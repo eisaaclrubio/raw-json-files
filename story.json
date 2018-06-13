@@ -1,0 +1,10 @@
+{
+  "heading": "<h1>A story about something</h1>",
+  "chapterUrls": [
+    "https://raw.githubusercontent.com/eisaaclrubio/raw-json-files/master/chapter-1.json",
+    "https://raw.githubusercontent.com/eisaaclrubio/raw-json-files/master/chapter-2.json",
+    "https://raw.githubusercontent.com/eisaaclrubio/raw-json-files/master/chapter-3.json",
+    "https://raw.githubusercontent.com/eisaaclrubio/raw-json-files/master/chapter-4.json",
+    "https://raw.githubusercontent.com/eisaaclrubio/raw-json-files/master/chapter-5.json"
+  ]
+}
